@@ -1,0 +1,6 @@
+C:\Users\kharlamov.dmi\Documents\Visual Studio 2015\Projects\XMLReportConverter\XmlReportConverter\XmlReportConverter\bin\Debug\XmlReportConverter.exe.config
+C:\Users\kharlamov.dmi\Documents\Visual Studio 2015\Projects\XMLReportConverter\XmlReportConverter\XmlReportConverter\bin\Debug\XmlReportConverter.exe
+C:\Users\kharlamov.dmi\Documents\Visual Studio 2015\Projects\XMLReportConverter\XmlReportConverter\XmlReportConverter\bin\Debug\XmlReportConverter.pdb
+C:\Users\kharlamov.dmi\Documents\Visual Studio 2015\Projects\XMLReportConverter\XmlReportConverter\XmlReportConverter\obj\Debug\XmlReportConverter.exe
+C:\Users\kharlamov.dmi\Documents\Visual Studio 2015\Projects\XMLReportConverter\XmlReportConverter\XmlReportConverter\obj\Debug\XmlReportConverter.pdb
+C:\Users\kharlamov.dmi\Documents\Visual Studio 2015\Projects\XMLReportConverter\XmlReportConverter\XmlReportConverter\obj\Debug\XmlReportConverter.csprojResolveAssemblyReference.cache
